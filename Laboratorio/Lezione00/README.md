@@ -33,11 +33,17 @@ Array creato con successo!
 
 Seleziona un'opzione: 2
 Inserisci nuovi valori per l'array:
+
 Nuovo Valore 1: 42
+
 Nuovo Valore 2: 65
+
 Nuovo Valore 3: 78
+
 Nuovo Valore 4: 23
+
 Nuovo Valore 5: 91
+
 Array modificato con successo!
 
 Seleziona un'opzione: 3
